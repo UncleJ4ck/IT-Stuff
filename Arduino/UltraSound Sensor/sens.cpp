@@ -1,7 +1,7 @@
 //C++ Arduino Library
 
 // for the ultrasound sensor
-int Trig = 4, Echo = 7, Buzzer = 2, Duration, Distance;
+int Trig = 13, Echo = 12, Buzzer = 3, Duration, Distance;
 
 void setup() {
   // serial data transmission 
