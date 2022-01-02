@@ -1,7 +1,11 @@
 # Potentiometer Controller
 
-it's a mini project i made in school, using [Tinkercad](https://www.tinkercad.com) platform, it's basically controls the intensity of the LEDs depending on potentiometer position. 
+it's a mini project i made in school, using [Tinkercad](https://www.tinkercad.com) platform, 
 I learned how to use a sensor to controle lights or anything that it's connected to your electrical circuit. 
+
+## How it works 
+
+Using the Arduino analog input function to control the brightness of the LED light by reading input voltage values through a potentiometer.
 
 ## Connection
 
@@ -9,3 +13,11 @@ I learned how to use a sensor to controle lights or anything that it's connected
   <img src="https://i.imgur.com/SypujUQ.png"/>
 </p>
 
+## Components 
+
+`Arduino UNO`
+`Wires`
+`Breadboard`
+`5x LED`
+`Potentiometer`
+`5x Resistors 220ohm`
