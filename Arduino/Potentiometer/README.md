@@ -1,7 +1,7 @@
 # Potentiometer Controller
 
 it's a mini project i made in school, using [Tinkercad](https://www.tinkercad.com) platform, 
-I learned how to use a sensor to controle lights or anything that it's connected to your electrical circuit. 
+
 
 ## How it works 
 
