@@ -1,8 +1,11 @@
 # Alarm system
 
-it's a mini project i made in school, using [Tinkercad](https://www.tinkercad.com) platform, it's basically using the ultrasonic sensor
-to detect an intrusion and it depends on a certain distance the buzzer lights up on a certain Hertz value
-I had a lot of fun and i learned a lot of new things about the embedded microcontrollers
+it's a mini project i made in school, using [Tinkercad](https://www.tinkercad.com) platform, 
+
+## How it works? 
+
+it's basically using the ultrasonic sensor
+to detect an intrusion and it makes a sound on a certain Hertz value when an object comes too close.
 
 ## Connection
 
@@ -10,3 +13,10 @@ I had a lot of fun and i learned a lot of new things about the embedded microcon
   <img src="https://i.imgur.com/eadw19C.png"/>
 </p>
 
+## Components 
+
+`Arduino UNO`
+`Wires`
+`Buzzer`
+`Ultrasonic Sensor - HC-SR04`
+`Breadboard`
