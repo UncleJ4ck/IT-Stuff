@@ -1,4 +1,5 @@
 #include "rgb_lcd.h"
+#include <Wire.h>
 
 // pins for the two sensors
 int C_Heavy = 7;

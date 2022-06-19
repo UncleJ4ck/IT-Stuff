@@ -1,5 +1,3 @@
-//C++ Arduino Library
-
 // Pins 
 int sensorpin = A0; 
 const int led[] = {1, 2, 3, 4, 5};

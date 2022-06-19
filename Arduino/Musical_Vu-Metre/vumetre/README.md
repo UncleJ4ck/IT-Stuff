@@ -1,17 +1,20 @@
-# Potentiometer Controller
+# Musical Vu-Metre
 
-it's a mini project i made in school, using [Tinkercad](https://www.tinkercad.com) platform.
-You can use (Fritzing)[https://fritzing.org/download/] as an alternative
+A mini project that i made, a simple implementation of the big musical vu-metre (Fritzing)[https://fritzing.org/download/] 
 
 
-## How it works 
+## Explanation
 
-Using the Arduino analog input function to control the brightness of the LED light by reading input voltage values through a potentiometer.
+a volume unit (VU) meter is a device that provides a representation by using LEDs of the signal level in the audio equipment, using an OPA344 to take the audio as an input.
+
+## Datasheet 
+
+(OPA344)[https://www.ti.com/lit/ds/symlink/opa344.pdf]
 
 ## Connection
 
 <p align="center">
-  <img src="https://i.imgur.com/SypujUQ.png"/>
+  <img src="img/comp.png"/>
 </p>
 
 
@@ -27,9 +30,9 @@ I recommend using [Arduino IDE](https://www.arduino.cc/en/software) Choose your 
 
 ## Components 
 
-`Arduino UNO`
+`Arduino UNO or any other compatible board`
 `Wires`
 `Breadboard`
-`5x LED`
-`Potentiometer`
+`12x Colored LED`
+`OPA344 Electret Microphone Board`
 `5x Resistors 220ohm`
