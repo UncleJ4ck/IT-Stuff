@@ -11,7 +11,7 @@ First, we put the marble in a sled if its heavyweight, it will hit the barrier a
 > That's the real project 
 
 <p align="center">
-  <img src="/img/final_project.jpeg"/>
+  <img src="Arduino/MassSorter/img/final_project.jpeg"/>
 </p>
 
 

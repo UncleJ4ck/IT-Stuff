@@ -1,7 +1,7 @@
 # Potentiometer Controller
 
 it's a mini project i made in school, using [Tinkercad](https://www.tinkercad.com) platform.
-You can use (Fritzing)[https://fritzing.org/download/] as an alternative
+You can use [Fritzing](https://fritzing.org/download/) as an alternative
 
 
 ## How it works 
