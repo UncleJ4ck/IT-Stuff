@@ -14,7 +14,7 @@ a volume unit (VU) meter is a device that provides a representation by using LED
 ## Connection
 
 <p align="center">
-  <img src="Arduino/Musical_Vu-Metre/img/comp.png"/>
+  <img src="https://raw.githubusercontent.com/UncleJ4ck/IT-Stuff/main/Arduino/Musical_Vu-Metre/img/comp.png"/>
 </p>
 
 

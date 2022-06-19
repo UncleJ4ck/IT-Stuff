@@ -8,7 +8,7 @@ it's a mini project i made in school, and i reimplemented it in [Fritzing](https
 I used some mini marbles as an example in this project, using a color sensor (i used TCS3200 but you can use the TCS230). You can check their datasheets in the links below, and based on the color it detects it moves the servomotor (i used the S590 micro servo) at a specific angle to drop the marble in the right spot as you can see in the picture below 
 
 <p align="center">
-  <img src="/img/final_project.png"/>
+  <img src="https://raw.githubusercontent.com/UncleJ4ck/IT-Stuff/main/Arduino/ColorSorting/img/final_project.jpg"/>
 </p>
 
 > there are 2 servomotors one that locks the marble until it detects its colors and it opens again a little door to make the marble slides to its right hole and the other to move the whole base 
@@ -27,12 +27,12 @@ I used some mini marbles as an example in this project, using a color sensor (i 
 ```That's the little reimplementation in fritzing```
 
 <p align="center">
-  <img src="/img/reimplementation.png"/>
+  <img src="https://raw.githubusercontent.com/UncleJ4ck/IT-Stuff/main/Arduino/ColorSorting/img/reimplementation.png"/>
 </p>
 
 > For the reimplementation you may not found the [color sensor](TCS230 Color Sensor.fzpz) in fritzing you can download it and slide in it into fritzing as easy as in this video below:
 
-![demonstration](/img/demonstration.webm)
+![demonstration](https://github.com/UncleJ4ck/IT-Stuff/blob/main/Arduino/ColorSorting/img/demonstration.webm?raw=true)
 
 ## Installation 
 

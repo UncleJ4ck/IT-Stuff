@@ -11,7 +11,7 @@ First, we put the marble in a sled if its heavyweight, it will hit the barrier a
 > That's the real project 
 
 <p align="center">
-  <img src="Arduino/MassSorter/img/final_project.jpeg"/>
+  <img src="https://raw.githubusercontent.com/UncleJ4ck/IT-Stuff/main/Arduino/MassSorter/img/final_project.jpeg">
 </p>
 
 
@@ -38,6 +38,12 @@ First, we put the marble in a sled if its heavyweight, it will hit the barrier a
 1. Go to ```Sketch > Include a Library > Manage Libraries > Search for "Grove - LCD RGB Backlight" >  and install it 
 
 ## Components 
+
+- Those are the components in fritzing
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/UncleJ4ck/IT-Stuff/main/Arduino/MassSorter/img/components.png">
+</p>
 
 `Arduino UNO or any other compatible board`
 `Grove - LCD RGB Backlight`
