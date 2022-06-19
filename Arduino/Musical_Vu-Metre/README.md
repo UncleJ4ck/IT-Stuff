@@ -1,6 +1,6 @@
 # Musical Vu-Metre
 
-A mini project that i made, a simple implementation of the big musical vu-metre (Fritzing)[https://fritzing.org/download/] 
+A mini project that i made, a simple implementation of the big musical vu-metre [Fritzing](https://fritzing.org/download/)
 
 
 ## Explanation
@@ -9,7 +9,7 @@ a volume unit (VU) meter is a device that provides a representation by using LED
 
 ## Datasheet 
 
-(OPA344)[https://www.ti.com/lit/ds/symlink/opa344.pdf]
+[OPA344](https://www.ti.com/lit/ds/symlink/opa344.pdf)
 
 ## Connection
 

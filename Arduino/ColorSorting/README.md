@@ -1,6 +1,6 @@
 # Color Sorting Machine
 
-it's a mini project i made in school, and i reimplemented it in (Fritzing)[https://fritzing.org/download/] 
+it's a mini project i made in school, and i reimplemented it in [Fritzing](https://fritzing.org/download/) 
 
 
 ## How it works 
@@ -16,11 +16,11 @@ I used some mini marbles as an example in this project, using a color sensor (i 
 ## Datasheets 
 
 - Color Sensor
-(TCS3200/TCS3210)[https://s3-sa-east-1.amazonaws.com/robocore-lojavirtual/889/TCS230%20Datasheet.pdf]
-(TCS230)[https://www.mouser.com/catalog/specsheets/tcs3200-e11.pdf]
+[TCS3200/TCS3210](https://s3-sa-east-1.amazonaws.com/robocore-lojavirtual/889/TCS230%20Datasheet.pdf)
+[TCS230](https://www.mouser.com/catalog/specsheets/tcs3200-e11.pdf)
 
 - Servomotor
-(SG90)[http://www.ee.ic.ac.uk/pcheung/teaching/DE1_EE/stores/sg90_datasheet.pdf]
+[SG90](http://www.ee.ic.ac.uk/pcheung/teaching/DE1_EE/stores/sg90_datasheet.pdf)
 
 ## Connection
 
@@ -32,7 +32,7 @@ I used some mini marbles as an example in this project, using a color sensor (i 
 
 > For the reimplementation you may not found the [color sensor](TCS230 Color Sensor.fzpz) in fritzing you can download it and slide in it into fritzing as easy as in this video below:
 
-![demonstration](demonstration.webm)
+![demonstration](/img/demonstration.webm)
 
 ## Installation 
 
