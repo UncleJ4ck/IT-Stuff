@@ -30,7 +30,7 @@ I used some mini marbles as an example in this project, using a color sensor (i 
   <img src="https://raw.githubusercontent.com/UncleJ4ck/IT-Stuff/main/Arduino/ColorSorting/img/reimplementation.png"/>
 </p>
 
-> For the reimplementation you may not found the [color sensor](TCS230 Color Sensor.fzpz) in fritzing you can download it and slide in it into fritzing as easy as in this video below:
+> For the reimplementation you may not found the [Color Sensor](https://github.com/UncleJ4ck/IT-Stuff/blob/main/Arduino/ColorSorting/TCS230%20Color%20Sensor.fzpz?raw=true) in fritzing you can download it and slide in it into fritzing as easy as in this video below:
 
 ![demonstration](https://github.com/UncleJ4ck/IT-Stuff/blob/main/Arduino/ColorSorting/img/demonstration.webm?raw=true)
 
