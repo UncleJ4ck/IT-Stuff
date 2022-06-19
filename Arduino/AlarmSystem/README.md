@@ -14,7 +14,7 @@ it's basically using the ultrasonic sensor to detect an intrusion and it makes a
 </p>
 
 
-## Installation 
+## Installation 
 
 > Some Stupid Instructions that you might forget !
 
