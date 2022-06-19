@@ -15,7 +15,7 @@ First, we put the marble in a sled if its heavyweight, it will hit the barrier a
 </p>
 
 
-## Installation 
+## Installation 
 
 
 > Some Stupid Instructions that you might forget !

@@ -15,7 +15,7 @@ Using the Arduino analog input function to control the brightness of the LED lig
 </p>
 
 
-## Installation 
+## Installation 
 
 > Some Stupid Instructions that you might forget !
 I recommend using [Arduino IDE](https://www.arduino.cc/en/software) Choose your version depending on your operation system and Download it 

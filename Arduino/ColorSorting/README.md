@@ -34,7 +34,7 @@ I used some mini marbles as an example in this project, using a color sensor (i 
 
 ![demonstration](demonstration.webm)
 
-## Installation 
+## Installation 
 
 > Some Stupid Instructions that you might forget !
 
