@@ -44,7 +44,7 @@ I used some mini marbles as an example in this project, using a color sensor (i 
 3. Choose Your Board go to ```Tools > Board and choose your board (Arduino UNO or Arduino Mini)```
 4. If you wanna test your code and debug it go to ```Sketch > Verify/Compile``` if you wanna send it directly ```Sketch > Upload```
 
-> For this project you will need an external library that's called (Servo.h)[https://github.com/arduino-libraries/Servo] 
+> For this project you will need an external library that's called [Servo.h](https://github.com/arduino-libraries/Servo) 
 
 - For the older version of Arduino 
 1. Download it as a zip file from the github page

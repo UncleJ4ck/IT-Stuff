@@ -35,7 +35,7 @@ It's a scenario where an attacker uses a keyboard or a mouse to physically attac
 3. Choose Your Board go to ```Tools > Board and choose your board (Arduino UNO or Arduino Mini)```
 4. If you wanna test your code and debug it go to ```Sketch > Verify/Compile``` if you wanna send it directly ```Sketch > Upload```
 
-> For this project you will need an external library that's called (Keyboard.h)[https://github.com/arduino-libraries/Keyboard] 
+> For this project you will need an external library that's called [Keyboard.h](https://github.com/arduino-libraries/Keyboard) 
 
 - For the older version of Arduino 
 1. Download it as a zip file from the github page 

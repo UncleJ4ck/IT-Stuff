@@ -26,7 +26,7 @@ First, we put the marble in a sled if its heavyweight, it will hit the barrier a
 3. Choose Your Board go to ```Tools > Board and choose your board (Arduino UNO or Arduino Mini)```
 4. If you wanna test your code and debug it go to ```Sketch > Verify/Compile``` if you wanna send it directly ```Sketch > Upload```
 
-> For this project you will need an external library that's called (rgb_lcd.h)[https://github.com/Seeed-Studio/Grove_LCD_RGB_Backlight] 
+> For this project you will need an external library that's called [rgb_lcd.h](https://github.com/Seeed-Studio/Grove_LCD_RGB_Backlight)
 
 - For the older version of Arduino 
 1. Download it as a zip file from the github page 
