@@ -28,8 +28,8 @@ It is important to note that the code provided only show part of the project, it
 
 ## TO-DO 
 
-[x] Enable more than one user to connect and chat
-[x] Multithreading
-[ ] Stream Encryption 
-[ ] Bugs fixing 
-[ ] Add more features like GUI  
+- [x] Enable more than one user to connect and chat
+- [x] Multithreading
+- [ ] Stream Encryption 
+- [ ] Bugs fixing 
+- [ ] Add more features like GUI  
