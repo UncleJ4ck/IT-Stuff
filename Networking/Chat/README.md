@@ -14,7 +14,7 @@ Once connected, the client enters a loop where it waits for input from the user,
 It is important to note that the code provided only show part of the project, it is only the client part of the project, there should be a server code that the client connects to, and the server should handle the clients connections, the messages broadcasting, and other functionalities.
 
 
-## Installation 
+## Usage
 
 ```Bash 
     git clone https://github.com/UncleJ4ck/IT-Stuff
