@@ -8,10 +8,7 @@ all: $(NAME)
 $(NAME) : $(SRCS)
 	$(CC) $(CFLAGS) $^ -o $@   
 
-clean :
-	rm obj/*
-
-fclean : clean 
+clean : 
 	rm $(NAME)
 
 re : clean all 
